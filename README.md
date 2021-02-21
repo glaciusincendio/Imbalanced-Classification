@@ -1,2 +1,2 @@
 # Imbalanced-Classification
-Using Keras for classifing on imbalanced dataset
+Using Keras for classifying on imbalanced dataset
